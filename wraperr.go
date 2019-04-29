@@ -1,4 +1,4 @@
-// Package errors provides some of the useful helpers from github.com/pkg/errors implemented for xerrors
+// Package wraperr provides some of the useful helpers from github.com/pkg/errors implemented for xerrors
 
 package wraperr
 
